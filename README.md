@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there I'm Jasper 👋 A Product Manager transitioning to Full Stack Developer.
 
 <!--
 **jasper1001/jasper1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a personal using REACTJS 
+- 🔭 I’m currently working on a personal <a href="https://crypto-bros-calculator.vercel.app/">project</a> using REACTJS 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on any opensource project
 
