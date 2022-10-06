@@ -11,10 +11,7 @@
 
 ### SKILLS
 
- <p>Javascript</p>
- <p>HTML</p>
-  <p>CSS</p>
-  <p>PHP</p>
+ <p>Javascript, HTML, CSS, PHP</p>
 
 
 ### Socials
