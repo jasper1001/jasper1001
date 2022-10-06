@@ -17,7 +17,8 @@
 ### Socials
 <a href="https://www.linkedin.com/in/jasper-manalo-006207126/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" heigth="32" width="32" max-width="100%"></a>
 <a href="https://twitter.com/jaspercoding"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" heigth="32" width="32" max-width="100%"></a>
-### <a href="https://jasper-portfolio.vercel.app/">Portfolio</a>
+
+## <a href="https://jasper-portfolio.vercel.app/">Portfolio</a>
 
 
 
