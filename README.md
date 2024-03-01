@@ -3,7 +3,7 @@
 <!--
 **jasper1001/jasper1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on a personal <a href="https://crypto-bros-calculator.vercel.app/">project</a> using REACTJS 
+- 🔭 I’m currently looking for a job in Development or in QA 
 - 🌱 I’m currently learning ReactJS, Automation Testing
 - 👯 I’m looking to collaborate on any opensource project 
 
