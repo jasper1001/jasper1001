@@ -1,17 +1,17 @@
-### Hi there I'm Jasper 👋 A Product Manager transitioning to Full Stack Developer.
+### Hi there I'm Jasper 👋 A Product Tester, Manager, and Developer.
 
 <!--
 **jasper1001/jasper1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on a personal <a href="https://crypto-bros-calculator.vercel.app/">project</a> using REACTJS 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on any opensource project
+- 🌱 I’m currently learning ReactJS, Automation Testing
+- 👯 I’m looking to collaborate on any opensource project 
 
 
 
 ### SKILLS
 
- <p>Javascript, HTML, CSS, PHP</p>
+ <p>Javascript, HTML, CSS, PHP, Manual Testing, User Acceptance Testing, Regression Testing, Blackbox testing, Functional Testing</p>
 
 
 ### Socials
