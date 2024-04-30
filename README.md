@@ -1,4 +1,4 @@
-### Hi there I'm Jasper 👋 A Product Tester, Manager, and Developer.
+### Hi there I'm Jasper 👋 A QA Tester, and Developer.
 
 <!--
 **jasper1001/jasper1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
